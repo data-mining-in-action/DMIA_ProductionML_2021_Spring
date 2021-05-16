@@ -47,9 +47,9 @@ https://gitlab.com/production-ml
 - Деплой ML моделей.
 
 #### Домашнее задание
-Докер: посмотреть пример в репозитории с паролями, убедиться что все понятно, упаковать в докер свой сервис с паролями, поднять его локально, убедиться что все работает как надо.
 
-Деплой: реализовать деплой сервиса про пароли на heroku в двух вариантах  - напрямую из git-репозитория ([как python package](https://devcenter.heroku.com/articles/getting-started-with-python)) и с помощью Docker ([через heroku.yml](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)). Базовый пример доступен в репозитории `password-complexity:feature/deploy-heroku-example`. Предполагается, что  будет переиспользован dockerfile из задания на docker. Не забудьте про $PORT! При желании - можно реализовать деплой в любой иной сервис.
+1) Докер: посмотреть пример в репозитории с паролями, убедиться что все понятно, упаковать в докер свой сервис с паролями, поднять его локально, убедиться что все работает как надо.
+2) Деплой: реализовать деплой сервиса про пароли на heroku в двух вариантах  - напрямую из git-репозитория ([как python package](https://devcenter.heroku.com/articles/getting-started-with-python)) и с помощью Docker ([через heroku.yml](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)). Базовый пример доступен в репозитории [password-complexity](https://gitlab.com/production-ml/password-complexity). Предполагается, что  будет переиспользован dockerfile из задания на docker. Не забудьте про $PORT! При желании - можно реализовать деплой в любой иной сервис.
 
 ### Неделя 4
 - Основы хранения и версионирования данных. 
