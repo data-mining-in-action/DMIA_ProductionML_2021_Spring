@@ -43,9 +43,9 @@
 
 ## Авторы курса
 
-- Александр Гущин, Tech Lead в Mechanica.ai
+- Александр Гущин, ML Engineer в Iterative.ai
 - Михаил Трофимов, ML Product Owner в Praxis
 - Глеб Ерофеев, Lead ML Engineer в Сбермаркет
-- Виталий Белов, DS в Mechanica.ai
+- Виталий Белов, DS в Сбермаркет
 - Ольга Филиппова, DS Team Lead в банке Открытие
 - Илья Ирхин, Chief DS Yandex.Taxi
